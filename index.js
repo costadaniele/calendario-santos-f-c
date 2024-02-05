@@ -29,4 +29,5 @@ document.querySelector('#cards').innerHTML = `
         ${createCard('25/01', 'Quinta', createGame ('santos', '19:30', 'ponte-preta'))}
         ${createCard('28/01', 'Domingo', createGame ('palmeiras', '18:00', 'santos'))}
         ${createCard('31/01', 'Quarta', createGame ('agua-santa', '21:35', 'santos'))}
+        ${createCard('04/02', 'Domingo', createGame ('santos', '18:00', 'guarani'))}
 `
